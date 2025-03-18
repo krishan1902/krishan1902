@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="left">Full Time - Computer Science Developer</h1>
+<h1 align="left">Full Time - Computer Science Student</h1>
 
 ###
 
