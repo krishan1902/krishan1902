@@ -85,3 +85,13 @@
 </div>
 
 ###
+
+<h3 align="left">🏅   Certifications & Badges :</h3>
+
+<div align="center">
+  <img src="https://images.credly.com/size/680x680/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" height="150" alt="languages graph"  />
+  <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="150">
+</div>
+
+
+
