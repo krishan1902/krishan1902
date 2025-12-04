@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center">Full Time - Computer Science Student</h1>
+<h1 align="center">Computer Science Student</h1>
 
 ###
 
