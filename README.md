@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Raj from Salzburg/Austria<br><br>- 📚 I'm currently studying at HTL Saalfelden<br>- ⚡ In my free time I work with cars</p>
+<p align="left">I'm Raj from Salzburg/Austria<br><br>- 📚 HTL Saalfelden<br>- ⚡ In my free time I work with cars<br>- rajkrishan.netlify.app</p>
 
 ###
 <hr>
